@@ -1,17 +1,10 @@
 
-> By using this repository or any code related to it, you agree to the [legal notice](LEGAL_NOTICE.md). The author is not responsible for any copies, forks, re-uploads made by other users, or anything else related to GPT4Free. This is the author's only account and repository. To prevent impersonation or irresponsible actions, please comply with the GNU GPL license this Repository uses.
 
 > [!Note]
 > Latest pypi version: [`0.1.9.0`](https://pypi.org/project/g4f/0.1.9.0)
 ```sh
 pip install -U g4f
 ```
-
-## 🆕 What's New
-- <a href="./README-DE.md"><img src="https://img.shields.io/badge/öffnen in-🇩🇪 deutsch-bleu.svg" alt="Öffnen en DE"></a>
-- Join our Telegram Channel: [t.me/g4f_channel](https://telegram.me/g4f_channel)
-- Join our Discord Group: [discord.gg/XfybzPXPH5](https://discord.gg/XfybzPXPH5)
-- Explore the g4f Documentation (unfinished): [g4f.mintlify.app](https://g4f.mintlify.app) | Contribute to the docs via: [github.com/xtekky/gpt4free-docs](https://github.com/xtekky/gpt4free-docs)
 
 ## 🛠️ Getting Started
 
