@@ -1,7 +1,4 @@
 
-
-> [!Note]
-> Latest pypi version: [`0.1.9.0`](https://pypi.org/project/g4f/0.1.9.0)
 ```sh
 pip install -U g4f
 ```
