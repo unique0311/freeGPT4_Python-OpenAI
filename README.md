@@ -1,7 +1,3 @@
-![248433934-7886223b-c1d1-4260-82aa-da5741f303bb](https://github.com/xtekky/gpt4free/assets/98614666/ea012c87-76e0-496a-8ac4-e2de090cc6c9)
-
-<a href='https://ko-fi.com/xtekky' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-<div id="top"></div>
 
 > By using this repository or any code related to it, you agree to the [legal notice](LEGAL_NOTICE.md). The author is not responsible for any copies, forks, re-uploads made by other users, or anything else related to GPT4Free. This is the author's only account and repository. To prevent impersonation or irresponsible actions, please comply with the GNU GPL license this Repository uses.
 
@@ -16,41 +12,6 @@ pip install -U g4f
 - Join our Telegram Channel: [t.me/g4f_channel](https://telegram.me/g4f_channel)
 - Join our Discord Group: [discord.gg/XfybzPXPH5](https://discord.gg/XfybzPXPH5)
 - Explore the g4f Documentation (unfinished): [g4f.mintlify.app](https://g4f.mintlify.app) | Contribute to the docs via: [github.com/xtekky/gpt4free-docs](https://github.com/xtekky/gpt4free-docs)
-
-## 📚 Table of Contents
-
-- [🆕 What's New](#-whats-new)
-- [📚 Table of Contents](#-table-of-contents)
-- [🛠️ Getting Started](#️-getting-started)
-    - [Prerequisites:](#prerequisites)
-    - [Setting up the project:](#setting-up-the-project)
-      - [Install using pypi](#install-using-pypi)
-      - [or](#or)
-      - [Setting up with Docker:](#setting-up-with-docker)
-- [💡 Usage](#-usage)
-  - [The `g4f` Package](#the-g4f-package)
-    - [ChatCompletion](#chatcompletion)
-      - [Completion](#completion)
-      - [Providers](#providers)
-      - [Cookies Required](#cookies-required)
-      - [Async Support](#async-support)
-      - [Proxy and Timeout Support](#proxy-and-timeout-support)
-  - [Interference openai-proxy API (Use with openai python package)](#interference-openai-proxy-api-use-with-openai-python-package)
-    - [Run interference API from PyPi package](#run-interference-api-from-pypi-package)
-    - [Run interference API from repo](#run-interference-api-from-repo)
-- [🚀 Providers and Models](#-providers-and-models)
-  - [GPT-4](#gpt-4)
-  - [GPT-3.5](#gpt-35)
-  - [Other](#other)
-  - [Models](#models)
-- [🔗 Related GPT4Free Projects](#-related-gpt4free-projects)
-- [🤝 Contribute](#-contribute)
-    - [Create Provider with AI Tool](#create-provider-with-ai-tool)
-    - [Create Provider](#create-provider)
-- [🙌 Contributors](#-contributors)
-- [©️ Copyright](#️-copyright)
-- [⭐ Star History](#-star-history)
-- [📄 License](#-license)
 
 ## 🛠️ Getting Started
 
